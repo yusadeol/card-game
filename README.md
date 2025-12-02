@@ -1,16 +1,13 @@
+# Card Game
+
+A simple card battle game where having the highest overall score increases your chances of defeating the machine. The main objective of this project is to practice SOLID principles and Clean Architecture, ensuring a well-structured and flexible codebase. The entire project is built using PHP.
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e165882a-fdd7-476d-9555-78b952d0b6c5" width="400">
 </p>
 
-# Card Game
+## Description
+Card Game is a small-scale project designed to demonstrate clean code practices and architectural organization. It simulates a turn-based card battle, applying object-oriented principles to keep the logic maintainable and easy to extend. Although simple in nature, the project serves as a practical exercise in structuring PHP applications with clarity and discipline.
 
-Um jogo de batalha de cartas onde ter o maior overall favorece suas chances de vitória contra a máquina.
-
-O objetivo deste projeto é praticar os princípios do SOLID e da Clean Architecture, garantindo uma estrutura
-bem organizada e flexível.
-
-O projeto é feito inteiramente usando PHP.
-
-### Contato
-
-- Linkedin [@Yuri Oliveira](https://www.linkedin.com/in/yuri-sales-de-oliveira)
+## License
+Card Game is open-sourced software licensed under the [MIT license](LICENSE).
